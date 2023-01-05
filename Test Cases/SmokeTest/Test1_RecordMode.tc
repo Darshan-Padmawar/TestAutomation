@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>just description</description>
+   <name>Test1_RecordMode</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b43a647f-35de-446f-ab0a-10e9f134917e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3a5850b6-b09a-423d-82a8-3d4c4de4b9f5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/csvData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3a5850b6-b09a-423d-82a8-3d4c4de4b9f5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>cea8c097-c25f-4313-998a-28d7c6e55e26</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3a5850b6-b09a-423d-82a8-3d4c4de4b9f5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>fe862b93-cef7-46d0-8a0d-13ae7dfdfefb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cea8c097-c25f-4313-998a-28d7c6e55e26</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe862b93-cef7-46d0-8a0d-13ae7dfdfefb</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Please be informed that your appointment _11813a</name>
+   <tag></tag>
+   <elementGuidId>9b671079-4369-4c9c-94a1-bde6bd5968fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='summary']/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.lead</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e8b00bc4-03c2-4960-a773-3ce0ef294403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lead</value>
+      <webElementGuid>dcecd0d9-3f1d-4181-b93a-47a21ab87c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please be informed that your appointment has been booked as following:</value>
+      <webElementGuid>255e3aa7-6ae3-44db-ab52-ae99dc09bbca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;summary&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 text-center&quot;]/p[@class=&quot;lead&quot;]</value>
+      <webElementGuid>0bb19170-738a-4bed-8a71-48037314afcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='summary']/div/div/div/p</value>
+      <webElementGuid>32a51cde-7faf-40ac-9c1d-2cd0a8cfa808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Confirmation'])[1]/following::p[1]</value>
+      <webElementGuid>2c382ee4-a6c6-4d9f-9347-fdcfa2e24a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::p[1]</value>
+      <webElementGuid>f311bd4b-86a9-40b2-97a6-bae582f86b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/preceding::p[1]</value>
+      <webElementGuid>926fd677-34eb-40da-9e41-12135acb0502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/preceding::p[2]</value>
+      <webElementGuid>0cc63c91-447f-4ac4-b1e0-466455303445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please be informed that your appointment has been booked as following:']/parent::*</value>
+      <webElementGuid>d64c8b9c-4f2a-4b82-9667-8bdfb122f518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>72d619ee-5236-43ec-a316-5c7340ede243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Please be informed that your appointment has been booked as following:' or . = 'Please be informed that your appointment has been booked as following:')]</value>
+      <webElementGuid>f09e47c1-43e6-47de-83a1-2216dab8b7a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

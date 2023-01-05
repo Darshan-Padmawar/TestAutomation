@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Admin_oxd-input oxd-input--focus</name>
+   <tag></tag>
+   <elementGuidId>05db260d-b84e-4331-955c-acfc44472cb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.oxd-input.oxd-input--focus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ee8717a1-7e33-426a-81e1-0dbbf801d845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-input oxd-input--focus</value>
+      <webElementGuid>18d8b72b-b92b-4858-83bc-45901af518db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>47e14ac5-3e27-4528-a369-2ed7985e6a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/div[@class=&quot;oxd-main-menu --fixed&quot;]/div[@class=&quot;oxd-main-menu-search&quot;]/input[@class=&quot;oxd-input oxd-input--focus&quot;]</value>
+      <webElementGuid>bb040f9d-8fe2-431c-a1ec-39842ad9b363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/div/div/input</value>
+      <webElementGuid>7f28ffb9-b17a-4877-a607-bf552c59ccaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>25f8ca64-1ac5-4fe5-b327-6d8af6692754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search']</value>
+      <webElementGuid>84799893-463d-48ee-8cec-4d8cf2a145df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>csvData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>22c6e1cb-135e-4740-8e7f-33b1930a9a92</dataFileGUID>
+   <dataSourceUrl>C:\Users\darsh\Desktop\csvtestData.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

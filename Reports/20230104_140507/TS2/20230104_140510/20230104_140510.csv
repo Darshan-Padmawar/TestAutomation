@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS2,Edge Chromium 108,,,2023-01-04 14:05:18,2023-01-04 14:05:49,30.483s,PASSED
+,,,,,,,
+Test Cases/SmokeTest/Test1_RecordMode,Edge Chromium 108,just description,smoke,2023-01-04 14:05:19,2023-01-04 14:05:31,12.573s,PASSED
+"openBrowser("""")",Edge Chromium 108,,,2023-01-04 14:05:19,2023-01-04 14:05:22,2.483s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 108,,,2023-01-04 14:05:22,2023-01-04 14:05:22,0.632s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Edge Chromium 108,,,2023-01-04 14:05:22,2023-01-04 14:05:23,0.788s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Edge Chromium 108,,,2023-01-04 14:05:23,2023-01-04 14:05:24,0.960s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""9NLz+4tGZcQ="")",Edge Chromium 108,,,2023-01-04 14:05:24,2023-01-04 14:05:25,0.452s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control""))",Edge Chromium 108,,,2023-01-04 14:05:25,2023-01-04 14:05:25,0.542s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Edge Chromium 108,,,2023-01-04 14:05:25,2023-01-04 14:05:26,0.449s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 108,,,2023-01-04 14:05:26,2023-01-04 14:05:26,0.617s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Edge Chromium 108,,,2023-01-04 14:05:26,2023-01-04 14:05:27,0.370s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Edge Chromium 108,,,2023-01-04 14:05:27,2023-01-04 14:05:27,0.400s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_24""))",Edge Chromium 108,,,2023-01-04 14:05:27,2023-01-04 14:05:27,0.505s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/body_CURA Healthcare                       _9d7cae""))",Edge Chromium 108,,,2023-01-04 14:05:27,2023-01-04 14:05:28,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/form_Facility                              _20adf0""))",Edge Chromium 108,,,2023-01-04 14:05:28,2023-01-04 14:05:28,0.467s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Demo comment test"")",Edge Chromium 108,,,2023-01-04 14:05:28,2023-01-04 14:05:29,0.820s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Book Appointment""))",Edge Chromium 108,,,2023-01-04 14:05:29,2023-01-04 14:05:30,0.475s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Edge Chromium 108,,,2023-01-04 14:05:30,2023-01-04 14:05:30,0.522s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_CURA Healthcare Service/p_Please be informed that your appointment _11813a""), ""Please be informed that your appointment has been booked as following:"")",Edge Chromium 108,,,2023-01-04 14:05:30,2023-01-04 14:05:31,0.440s,PASSED
+closeBrowser(),Edge Chromium 108,,,2023-01-04 14:05:31,2023-01-04 14:05:31,0.743s,PASSED
+,,,,,,,
+Test Cases/SmokeTest/Test2_ManualMode,Edge Chromium 108,,,2023-01-04 14:05:31,2023-01-04 14:05:42,10.965s,PASSED
+"openBrowser("""")",Edge Chromium 108,,,2023-01-04 14:05:32,2023-01-04 14:05:33,1.239s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com"")",Edge Chromium 108,,,2023-01-04 14:05:33,2023-01-04 14:05:35,2.080s,PASSED
+"setText(findTestObject(""Page_OrangeHRM/input_Username_username""), ""Admin"")",Edge Chromium 108,,,2023-01-04 14:05:35,2023-01-04 14:05:36,1.186s,PASSED
+"setEncryptedText(findTestObject(""Page_OrangeHRM/input_Password_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Edge Chromium 108,,,2023-01-04 14:05:36,2023-01-04 14:05:37,0.429s,PASSED
+"click(findTestObject(""Page_OrangeHRM/button_Login""))",Edge Chromium 108,,,2023-01-04 14:05:37,2023-01-04 14:05:37,0.340s,PASSED
+delay(2),Edge Chromium 108,,,2023-01-04 14:05:37,2023-01-04 14:05:39,2.036s,PASSED
+"verifyElementPresent(findTestObject(""Page_OrangeHRM/input_Admin_oxd-input oxd-input--focus""), 30)",Edge Chromium 108,,,2023-01-04 14:05:39,2023-01-04 14:05:40,0.678s,PASSED
+delay(2),Edge Chromium 108,,,2023-01-04 14:05:40,2023-01-04 14:05:42,2.014s,PASSED
+closeBrowser(),Edge Chromium 108,,,2023-01-04 14:05:42,2023-01-04 14:05:42,0.743s,PASSED
+,,,,,,,
+Test Cases/SmokeTest/Test3_ScriptMode,Edge Chromium 108,,,2023-01-04 14:05:42,2023-01-04 14:05:49,6.619s,PASSED
+"openBrowser(""https://opensource-demo.orangehrmlive.com"")",Edge Chromium 108,,,2023-01-04 14:05:43,2023-01-04 14:05:46,3.325s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username""), ""Admin"")",Edge Chromium 108,,,2023-01-04 14:05:46,2023-01-04 14:05:47,1.168s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_password""), ""admin123"")",Edge Chromium 108,,,2023-01-04 14:05:47,2023-01-04 14:05:48,0.679s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Login""))",Edge Chromium 108,,,2023-01-04 14:05:48,2023-01-04 14:05:48,0.531s,PASSED
+closeBrowser(),Edge Chromium 108,,,2023-01-04 14:05:48,2023-01-04 14:05:49,0.719s,PASSED
